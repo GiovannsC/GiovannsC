@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=77acfc&height=200&section=header&text=Giovanna%20Cristina&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Development%20&descAlignY=60&descAlign=36&fontColor=FFFFFF"/>
+</p>
 
-<!--
-**GiovannsC/GiovannsC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Olá!
 
-Here are some ideas to get you started:
+Meu nome é Giovanna Cristina.⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formação em ADS | 
+
+<div>
+  <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=GiovannsC&show_icons=true&theme=blue_navy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannsC&layout=compact&theme=blue_navy"/>
+</div>
+
+
+<div>
+  <img width= 100% src="https://giphy.com/gifs/animated-ocean-waves-XPlcxsFs8BIKk"/>
+</div>
